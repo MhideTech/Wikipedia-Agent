@@ -1,0 +1,208 @@
+{
+  tfa: {
+    type: 'standard',
+    title: 'African_striped_weasel',
+    displaytitle: '<span class="mw-page-title-main">African striped weasel</span>',
+    namespace: { id: 0, text: '' },
+    wikibase_item: 'Q852756',
+    titles: {
+      canonical: 'African_striped_weasel',
+      normalized: 'African striped weasel',
+      display: '<span class="mw-page-title-main">African striped weasel</span>'
+    },
+    pageid: 5943826,
+    thumbnail: {
+      source: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Whitenapedweasellg2.jpg/960px-Whitenapedweasellg2.jpg',
+      width: 640,
+      height: 426
+    },
+    originalimage: {
+      source: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg',
+      width: 1115,
+      height: 743
+    },
+    lang: 'en',
+    dir: 'ltr',
+    revision: '1319856347',
+    tid: '345d5d09-b6fd-11f0-903c-c172ec5a7ecc',
+    timestamp: '2025-11-01T08:31:47Z',
+    description: 'Species of mustelid mammal',
+    description_source: 'local',
+    content_urls: { desktop: [Object], mobile: [Object] },
+    extract: 'The African striped weasel, also known as the white-naped weasel, striped weasel or African weasel, is a small mammal native to sub-Saharan Africa, where its range stretches from as far north as Kenya down south to South Africa. It belongs in the family Mustelidae and is the lone member of the genus Poecilogale. It has a long, slender body with short legs and a bushy tail. One of the smallest carnivorans in Africa, it measures 24 to 35 cm long excluding the tail, with males generally larger than females. It has black fur over most of its body, with distinctive white bands running from the top of its head down its back, with the tail being completely white. The closest living relative of this species is the striped polecat, and it may also be related to the extinct Propoecilogale bolti.',
+    extract_html: '<p>The <b>African striped weasel</b>, also known as the <b>white-naped weasel</b>, <b>striped weasel</b> or <b>African weasel</b>, is a small mammal native to sub-Saharan Africa, where its range stretches from as far north as Kenya down south to South Africa. It belongs in the family Mustelidae and is the lone member of the genus <i><b>Poecilogale</b></i>. It has a long, slender body with short legs and a bushy tail. One of the smallest carnivorans in Africa, it measures 24 to 35 cm long excluding the tail, with males generally larger than females. It has black fur over most of its body, with distinctive white bands running from the top of its head down its back, with the tail being completely white. The closest living relative of this species is the striped polecat, and it may also be related to the extinct <i>Propoecilogale bolti</i>.</p>',
+    normalizedtitle: 'African striped weasel'
+  },
+  mostread: {
+    date: '2025-10-31Z',
+    articles: [
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object]
+    ]
+  },
+  image: {
+    title: 'File:Stained glass - Kutna Hora.jpg',
+    thumbnail: {
+      source: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stained_glass_-_Kutna_Hora.jpg/960px-Stained_glass_-_Kutna_Hora.jpg',
+      width: 640,
+      height: 849
+    },
+    image: {
+      source: 'https://upload.wikimedia.org/wikipedia/commons/7/7f/Stained_glass_-_Kutna_Hora.jpg',
+      width: 1276,
+      height: 1693
+    },
+    file_page: 'https://commons.wikimedia.org/wiki/File:Stained_glass_-_Kutna_Hora.jpg',
+    artist: {
+      html: '<a href="//commons.wikimedia.org/wiki/User:Pudelek" title="User:Pudelek">Pudelek</a> (Marcin Szala)',
+      text: 'Pudelek (Marcin Szala)'
+    },
+    credit: {
+      html: '<span class="int-own-work" lang="en">Own work</span>',
+      text: 'Own work'
+    },
+    license: {
+      type: 'CC BY-SA 3.0',
+      code: 'cc-by-sa-3.0',
+      url: 'https://creativecommons.org/licenses/by-sa/3.0'
+    },
+    description: {
+      html: `Detail of a <a rel="mw:WikiLink" href="./Stained_glass" title="Stained glass">stained glass</a> window in <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/St.%20Barbara's%20Church,%20Kutná%20Hora" title="en:St. Barbara's Church, Kutná Hora" class="extiw">St. Barbara's Church</a> (<a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Kutná%20Hora" title="en:Kutná Hora" class="extiw">Kutná Hora</a>, <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Czech%20Republic" title="en:Czech Republic" class="extiw">Czech Republic</a>). The window depicts <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Aloysius%20Gonzaga" title="en:Aloysius Gonzaga" class="extiw">St. Aloysius</a>, <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/St.%20Monica" title="en:St. Monica" class="extiw">St. Monica</a>, <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Francis%20of%20Assisi" title="en:Francis of Assisi" class="extiw">St. Francis of Assisi</a>, and <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/St.%20Joseph" title="en:St. Joseph" class="extiw">St. Joseph</a> in prayer. Today is <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/All%20Saints'%20Day" title="en:All Saints' Day" class="extiw">All Saints' Day</a>.`,  
+      text: "Detail of a stained glass window in St. Barbara's Church (Kutná Hora, Czech Republic). The window depicts St. Aloysius, St. Monica, St. Francis of Assisi, and St. Joseph in prayer. Today is All Saints' Day.",
+      lang: 'en'
+    },
+    wb_entity_id: 'M5510810',
+    structured: { captions: [Object] }
+  },
+  news: [
+    {
+      links: [Array],
+      story: '<!--Oct 30-->In baseball, the <a rel="mw:WikiLink" href="./Fukuoka_SoftBank_Hawks" title="Fukuoka SoftBank Hawks" id="mwBg">Fukuoka SoftBank Hawks</a> defeat the <a rel="mw:WikiLink" href="./Hanshin_Tigers" title="Hanshin Tigers" id="mwBw">Hanshin Tigers</a> to win <b id="mwCA"><a rel="mw:WikiLink" href="./2025_Japan_Series" title="2025 Japan Series" id="mwCQ">the Japan Series</a></b> <i id="mwCg">(<a rel="mw:WikiLink" href="./Japan_Series_Most_Valuable_Player_Award" title="Japan Series Most Valuable Player Award" id="mwCw">MVP</a> <a rel="mw:WikiLink" href="./Hotaka_Yamakawa" title="Hotaka Yamakawa" id="mwDA">Hotaka Yamakawa</a> pictured)</i>.'
+    },
+    {
+      links: [Array],
+      story: '<!--Oct 28--><b id="mwDg"><a rel="mw:WikiLink" href="./Hurricane_Melissa" title="Hurricane Melissa" id="mwDw">Hurricane Melissa</a></b> leaves more than 40 people dead across the <a rel="mw:WikiLink" href="./Caribbean" title="Caribbean" id="mwEA">Caribbean</a>.'
+    },
+    {
+      links: [Array],
+      story: '<!--Oct 28-->More than 120 people are killed in <b id="mwEg"><a rel="mw:WikiLink" href="./Operation_Containment" title="Operation Containment" id="mwEw">a police operation</a></b> in <a rel="mw:WikiLink" href="./Rio_de_Janeiro" title="Rio de Janeiro" id="mwFA">Rio de Janeiro</a>, Brazil.'
+    },
+    {
+      links: [Array],
+      story: '<!--Oct 26-->In the <a rel="mw:WikiLink" href="./Sudanese_civil_war_(2023–present)" title="Sudanese civil war (2023–present)" id="mwFg">Sudanese civil war</a>, at least 2,500 people are killed in <b id="mwFw"><a rel="mw:WikiLink" href="./Al-Fashir_massacre" title="Al-Fashir massacre" id="mwGA">massacres</a></b> after <b id="mwGQ"><a rel="mw:WikiLink" href="./Siege_of_al-Fashir" title="Siege of al-Fashir" id="mwGg">Al-Fashir is captured</a></b> by the <a rel="mw:WikiLink" href="./Rapid_Support_Forces" title="Rapid Support Forces" id="mwGw">Rapid Support Forces</a>.'
+    },
+    {
+      links: [Array],
+      story: '<!--Oct 26--><b id="mwHQ"><a rel="mw:WikiLink" href="./Accession_of_Timor-Leste_to_ASEAN" title="Accession of Timor-Leste to ASEAN" id="mwHg">Timor-Leste joins</a></b> <a rel="mw:WikiLink" href="./ASEAN" title="ASEAN" id="mwHw">ASEAN</a> as its <a rel="mw:WikiLink" href="./Member_states_of_ASEAN" title="Member states of ASEAN" id="mwIA">11th member</a>.'
+    }
+  ],
+  onthisday: [
+    {
+      text: "Elvis on Tour, a concert film that documented Elvis Presley's tour throughout the United States, opened.",
+      pages: [Array],
+      year: 1972
+    },
+    {
+      text: 'Lê Quang Tung, loyalist head of the South Vietnam Special Forces, was executed in a U.S.-backed coup against president Ngô Đình Diệm following a period of religious unrest.',
+      pages: [Array],
+      year: 1963
+    },
+    {
+      text: 'After being struck in the face with a hockey puck, Jacques Plante played the rest of the game wearing a face mask, now mandatory equipment for goaltenders in ice hockey.',
+      pages: [Array],
+      year: 1959
+    },
+    {
+      text: 'Dominique Mbonyumutwa, one of the few Hutu sub-chiefs in colonial Rwanda, was attacked by Tutsi activists, precipitating the Rwandan Revolution.',
+      pages: [Array],
+      year: 1959
+    },
+    {
+      text: 'The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act.',
+      pages: [Array],
+      year: 1956
+    },
+    {
+      text: 'World War II: An American F-13 Superfortress made the first flight by an Allied aircraft over Tokyo since the Doolittle Raid in April 1942.',
+      pages: [Array],
+      year: 1944
+    },
+    {
+      text: 'American photographer Ansel Adams (pictured) shot Moonrise, Hernandez, New Mexico, one of his most famous photographs.',
+      pages: [Array],
+      year: 1941
+    },
+    {
+      text: 'Frances Kyle was called to the Bar of Ireland, becoming the first female barrister in Ireland or Great Britain.',
+      pages: [Array],
+      year: 1921
+    },
+    {
+      text: 'World War I: The first contingent of the First Australian Imperial Force departed Albany, Western Australia.',
+      pages: [Array],
+      year: 1914
+    },
+    {
+      text: 'The disposable ship Columbus (pictured) arrived in the The Downs off England, becoming, at that time, the largest vessel to have crossed the Atlantic Ocean.',
+      pages: [Array],
+      year: 1824
+    },
+    {
+      text: 'Byzantine–Seljuk wars: Seljuq Turks captured the important port city of Sinope.',
+      pages: [Array],
+      year: 1214
+    },
+    {
+      text: 'After Empress Matilda released her rival King Stephen, he in turn released Robert of Gloucester, her strongest supporter, thus prolonging the Anglo-Norman civil war known as The Anarchy.',
+      pages: [Array],
+      year: 1141
+    }
+  ],
+  dyk: [
+    {
+      html: '... that the freighter <i id="mwDQ"><b id="mwDg"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/SS_D._M._Clemson_(1903)" title="SS D. M. Clemson (1903)" id="mwDw">D.<span typeof="mw:Entity" id="mwEA">&nbsp;</span>M. Clemson</a></b></i> <i id="mwEQ"></i> was one of the largest vessels on the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Great_Lakes" title="Great Lakes" id="mwEg">Great Lakes</a> in 1903?',
+      text: '... that the freighter D. M. Clemson was one of the largest vessels on the Great Lakes in 1903?'
+    },
+    {
+      html: '... that Filipino politician <b id="mwFA"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Miriam_Defensor_Santiago" title="Miriam Defensor Santiago" id="mwFQ">Miriam Defensor Santiago</a></b> is known as the "Iron Lady of Asia"?',
+      text: '... that Filipino politician Miriam Defensor Santiago is known as the "Iron Lady of Asia"?'
+    },
+    {
+      html: '... that <b id="mwFw"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mina_(historical_ethnic_term)" title="Mina (historical ethnic term)" id="mwGA">a 16th-century ethnic term used in Africa</a></b> is still used today for <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Tambor_de_Mina" title="Tambor de Mina" id="mwGQ">a Brazilian religion</a>, <b id="mwGg"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Gen-Mina_people" title="Gen-Mina people" id="mwGw">a Togolese and Beninese ethnic group</a></b>, and <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Gen_language" title="Gen language" id="mwHA">their language</a>?',
+      text: '... that a 16th-century ethnic term used in Africa is still used today for a Brazilian religion, a Togolese and Beninese ethnic group, and their language?'
+    },
+    {
+      html: '... that it took 40 years for <b id="mwHg"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Raghunath_Brahmbhatt" title="Raghunath Brahmbhatt" id="mwHw">Raghunath Brahmbhatt</a></b> to be credited for the lyrics to <b id="mwIA"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mohe_Panghat_Pe_Nandlal_Chhed_Gayo_Re" title="Mohe Panghat Pe Nandlal Chhed Gayo Re" id="mwIQ">a popular song he wrote</a></b>, 21 years after his death?',
+      text: '... that it took 40 years for Raghunath Brahmbhatt to be credited for the lyrics to a popular song he wrote, 21 years after his death?'   
+    },
+    {
+      html: `... that <i id="mwIw">My Dad</i>, the first entry in <i id="mwJA"><b id="mwJQ"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/My_Family_Member" title="My Family Member" id="mwJg">My Family Member</a></b></i>, a series of illustrated children books, was inspired by the author's discovery of his father's old gown?`,
+      text: "... that My Dad, the first entry in My Family Member, a series of illustrated children books, was inspired by the author's discovery of his father's old gown?"
+    },
+    {
+      html: '... that <b id="mwKA"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/John_Adams_Cameron" title="John Adams Cameron" id="mwKQ">John Adams Cameron</a></b> lost twice to <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/John_Culpepper" title="John Culpepper" id="mwKg">John Culpepper</a> in elections for the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/United_States_Congress" title="United States Congress" id="mwKw">United States Congress</a> that were 14 years apart?',
+      text: '... that John Adams Cameron lost twice to John Culpepper in elections for the United States Congress that were 14 years apart?'
+    },
+    {
+      html: '... that neighbors thought <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Naughty_Dog" title="Naughty Dog" id="mwLQ">Naughty Dog</a> was filming adult films due to their setup of shooting moves for <i id="mwLg"><b id="mwLw"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Way_of_the_Warrior" title="Way of the Warrior" id="mwMA">Way of the Warrior</a></b></i> from an apartment hallway?',
+      text: '... that neighbors thought Naughty Dog was filming adult films due to their setup of shooting moves for Way of the Warrior from an apartment hallway?'
+    },
+    {
+      html: `... that painter and designer <b id="mwMg"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Mia_Lee" title="Mia Lee" id="mwMw">Mia Lee</a></b> used to make doll fashions from her grandmother's scraps?`,
+      text: "... that painter and designer Mia Lee used to make doll fashions from her grandmother's scraps?"
+    },
+    {
+      html: `... that <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Jack_Fleck" title="Jack Fleck" id="mwNQ">Jack Fleck</a> defeated <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ben_Hogan" title="Ben Hogan" id="mwNg">Ben Hogan</a> in a playoff to win the <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/1955_U.S._Open_(golf)" title="1955 U.S. Open (golf)" id="mwNw">1955 U.S. Open</a> using <b id="mwOA"><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Ben_Hogan_Golf_Company" title="Ben Hogan Golf Company" id="mwOQ">Hogan's golf clubs</a></b>?`,
+      text: "... that Jack Fleck defeated Ben Hogan in a playoff to win the 1955 U.S. Open using Hogan's golf clubs?"
+    }
+  ]
+}
