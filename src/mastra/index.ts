@@ -2,6 +2,7 @@ import { Mastra } from "@mastra/core/mastra";
 import { PinoLogger } from "@mastra/loggers";
 import { LibSQLStore } from "@mastra/libsql";
 import { wikipediaAgent } from "./agents/wikipedia-agent";
+import { a2aAgentRoute } from "./routes/a2aRoutes";
 
 export const mastra = new Mastra({
   agents: { wikipediaAgent },
@@ -14,6 +15,9 @@ export const mastra = new Mastra({
     name: "Mastra",
     level: "info",
   }),
+  server: {
+    apiRoutes: [a2aAgentRoute],
+  },
   telemetry: {
     // Telemetry is deprecated and will be removed in the Nov 4th release
     enabled: false,
